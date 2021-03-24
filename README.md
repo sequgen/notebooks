@@ -1,7 +1,5 @@
 # notebooks
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sequgen/notebooks/main?filepath=test_mvp.ipynb)
-
 Jupyter notebook demo of [sequgen](https://github.com/sequgen/sequgen) functionality.
 
 ## Prerequisites
