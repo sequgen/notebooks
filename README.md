@@ -1,6 +1,6 @@
 # notebooks
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sequgen/notebooks/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sequgen/notebooks/HEAD?urlpath=lab)
 
 Jupyter notebook demo of [sequgen](https://github.com/sequgen/sequgen) functionality.
 
