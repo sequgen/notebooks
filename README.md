@@ -35,6 +35,9 @@ pip install --upgrade pip wheel
 # (from the repository root directory)
 # install sequgen + jupyter
 pip install --requirement requirements.txt
+
+# add the new local environment to jupyter
+ipython kernel install --name sequgen-demo --user
 ```
 
 Start the notebook server:
@@ -43,4 +46,4 @@ Start the notebook server:
 jupyter lab
 ```
 
-It will open a web browser with the Jupyter Lab environment, in file-browser on left side bar open the notebook (*.ipynb files) of interest.
+It will open a web browser with the Jupyter Lab environment, in file-browser on left side bar open the notebook (\*.ipynb files) of interest. Select the kernel `sequgen-demo` to run the notebook.
