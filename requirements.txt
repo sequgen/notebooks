@@ -1,2 +1,2 @@
-git+https://github.com/sequgen/sequgen@ef89edb8f0fed866f3455db3852d5474f0b8a009
+git+https://github.com/sequgen/sequgen
 jupyterlab
