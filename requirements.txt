@@ -1,2 +1,3 @@
 git+https://github.com/sequgen/sequgen
 jupyterlab
+pandas
