@@ -50,9 +50,9 @@ It will open a web browser with the Jupyter Lab environment, in file-browser on 
 
 ## Available notebooks
 
-* [https://github.com/sequgen/notebooks/blob/main/test_mvp.ipynb](test_mvp.ipynb): Introduction to sequgen. Start with this notebook if you are new to generating time series with sequgen
-* [https://github.com/sequgen/notebooks/blob/main/test_five_models.ipynb](test_five_models.ipynb): Example on how different time series can be combined in sequgen.
-* [https://github.com/sequgen/notebooks/blob/main/gallery.ipynb](gallery.ipynb): Overview of the available shapes of time series in sequgen.
-* [https://github.com/sequgen/notebooks/blob/main/hiccup.ipynb](hiccup.ipynb): Case study: generate a time series for hiccups with sequgen
-* [https://github.com/sequgen/notebooks/blob/main/bird_flapping.ipynb](bird_flapping.ipynb): Case study: recreate a time series of bird movements with sequgen
-* [https://github.com/sequgen/notebooks/blob/main/ggir-use-case-1.ipynb](ggir-use-case-1.ipynb): Case study: build a time series for sleep patterns with sequgen
+* [test_mvp.ipynb](https://github.com/sequgen/notebooks/blob/main/test_mvp.ipynb): Introduction to sequgen. Start with this notebook if you are new to generating time series with sequgen
+* [test_five_models.ipynb](https://github.com/sequgen/notebooks/blob/main/test_five_models.ipynb): Example on how different time series can be combined in sequgen.
+* [gallery.ipynb](https://github.com/sequgen/notebooks/blob/main/gallery.ipynb): Overview of the available shapes of time series in sequgen.
+* [hiccup.ipynb](https://github.com/sequgen/notebooks/blob/main/hiccup.ipynb): Case study: generate a time series for hiccups with sequgen
+* [bird_flapping.ipynb](https://github.com/sequgen/notebooks/blob/main/bird_flapping.ipynb): Case study: recreate a time series of bird movements with sequgen
+* [ggir-use-case-1.ipynb](https://github.com/sequgen/notebooks/blob/main/ggir-use-case-1.ipynb): Case study: build a time series for sleep patterns with sequgen
